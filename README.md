@@ -1,4 +1,4 @@
-## Outils et technos dév Java | Spring Boot
+## Stack de développement Java | Spring Boot
 Dans ce repo, nous allons voir quelques technos et outils utilisés dans le développement d'application avec Java Spring Boot.
 
 *Notez que je suis toujours dans le processus d'apprentissage - probablement sans fin :)-*
